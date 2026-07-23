@@ -35,4 +35,4 @@ Projekt ukończony - wersja demonstracyjna do portfolio.
 
 ---
 
-Nova Estate to fikcyjna marka deweloperska stworzona wyłącznie w celach demonstracyjnych. Ten sam koncept został wcześniej zrealizowany jako autorski motyw WordPress — obie wersje pokazują to samo podejście projektowe w różnych stackach technologicznych.
+Nova Estate to fikcyjna marka deweloperska stworzona wyłącznie w celach demonstracyjnych. Ten sam koncept został wcześniej zrealizowany jako autorski motyw WordPress - obie wersje pokazują to samo podejście projektowe w różnych stackach technologicznych.
