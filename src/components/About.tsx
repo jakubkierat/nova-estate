@@ -23,7 +23,7 @@ export function About() {
                 O nas
               </p>
               <h2 className="mt-4 font-display text-3xl font-bold leading-tight text-ink text-balance sm:text-4xl">
-                Budujemy więcej niż budynki — tworzymy sąsiedztwa
+                Budujemy więcej niż budynki - tworzymy sąsiedztwa
               </h2>
               <p className="mt-6 text-base leading-relaxed text-ink/70">
                 Nova Estate powstała w 2010 roku z przekonania, że dobrze
@@ -35,7 +35,7 @@ export function About() {
               </p>
               <p className="mt-4 text-base leading-relaxed text-ink/70">
                 Każdy projekt konsultujemy z pracowniami architektonicznymi
-                i planujemy z myślą o realnych potrzebach rodzin — od
+                i planujemy z myślą o realnych potrzebach rodzin - od
                 układu mieszkań po lokalizację placów zabaw i ścieżek
                 rowerowych.
               </p>

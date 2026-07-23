@@ -62,7 +62,7 @@ export function Hero() {
           className="mt-6 max-w-xl text-lg text-paper/80"
         >
           Projektujemy i budujemy kameralne osiedla mieszkaniowe w sześciu polskich
-          miastach — z troską o architekturę, sąsiedztwo i jakość wykończenia.
+          miastach - z troską o architekturę, sąsiedztwo i jakość wykończenia.
         </motion.p>
 
         <motion.div

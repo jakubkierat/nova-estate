@@ -42,7 +42,7 @@ export function Footer() {
         <div className="mt-14 flex flex-col gap-4 border-t border-paper/10 pt-8 text-xs sm:flex-row sm:items-center sm:justify-between">
           <p>© {new Date().getFullYear()} Nova Estate Sp. z o.o. Wszelkie prawa zastrzeżone.</p>
           <p className="text-paper/50">
-            Projekt portfolio — fikcyjna marka deweloperska stworzona w celach demonstracyjnych.
+            Projekt portfolio - fikcyjna marka deweloperska stworzona w celach demonstracyjnych.
           </p>
         </div>
       </div>

@@ -149,7 +149,7 @@ export function Contact() {
                     </option>
                     {investments.map((item) => (
                       <option key={item.slug} value={item.slug}>
-                        {item.name} — {item.city}
+                        {item.name} - {item.city}
                       </option>
                     ))}
                   </select>

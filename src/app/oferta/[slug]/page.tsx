@@ -40,11 +40,11 @@ export async function generateMetadata({
   const investment = getInvestmentBySlug(slug);
 
   if (!investment) {
-    return { title: "Inwestycja nie znaleziona — Nova Estate" };
+    return { title: "Inwestycja nie znaleziona - Nova Estate" };
   }
 
   return {
-    title: `${investment.name} — ${investment.city} | Nova Estate`,
+    title: `${investment.name} - ${investment.city} | Nova Estate`,
     description: investment.description,
   };
 }
@@ -99,7 +99,7 @@ export default async function InvestmentPage({
               </h1>
               <div className="mt-3 flex items-center gap-1.5 text-sm text-ink/60">
                 <MapPinIcon className="h-4 w-4" />
-                {investment.city} — {investment.address}
+                {investment.city} - {investment.address}
               </div>
             </div>
             <div className="text-right">
@@ -120,7 +120,7 @@ export default async function InvestmentPage({
               >
                 <Image
                   src={src}
-                  alt={`${investment.name} — zdjęcie ${index + 1}`}
+                  alt={`${investment.name} - zdjęcie ${index + 1}`}
                   fill
                   priority={index === 0}
                   className="object-cover"
@@ -209,7 +209,7 @@ export default async function InvestmentPage({
                     href={`/oferta/${item.slug}`}
                     className="rounded-full border border-ink/15 bg-paper px-5 py-2.5 text-sm font-medium text-ink transition-colors hover:border-gold hover:text-gold"
                   >
-                    {item.name} — {item.city}
+                    {item.name} - {item.city}
                   </Link>
                 ))}
             </div>

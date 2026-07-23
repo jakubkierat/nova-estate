@@ -48,7 +48,7 @@ export function Investments() {
             </h2>
           </div>
           <p className="max-w-sm text-sm text-ink/60">
-            Sprawdź dostępne osiedla w sześciu miastach — od apartamentów w
+            Sprawdź dostępne osiedla w sześciu miastach - od apartamentów w
             centrum po domy jednorodzinne na obrzeżach.
           </p>
         </Reveal>
@@ -96,7 +96,7 @@ export function Investments() {
                   <div className="p-6">
                     <div className="flex items-center gap-1.5 text-xs font-medium uppercase tracking-wide text-ink/50">
                       <MapPinIcon className="h-3.5 w-3.5" />
-                      {item.city} — {item.address}
+                      {item.city} - {item.address}
                     </div>
                     <h3 className="mt-3 font-display text-xl font-bold text-ink transition-colors group-hover:text-gold">
                       {item.name}

@@ -13,7 +13,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Nova Estate — Inwestycje mieszkaniowe premium",
+  title: "Nova Estate - Inwestycje mieszkaniowe premium",
   description:
     "Nova Estate to deweloper mieszkaniowy realizujący kameralne inwestycje w największych polskich miastach. Poznaj naszą ofertę apartamentów i domów jednorodzinnych.",
 };

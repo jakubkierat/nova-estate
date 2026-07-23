@@ -46,10 +46,10 @@ export const investments: Investment[] = [
       "Kameralny kompleks apartamentowców otoczony zielenią, z podziemnym parkingiem i strefą rekreacji na dachu.",
     longDescription: [
       "Vista Park to pięć czterokondygnacyjnych budynków ułożonych wokół wewnętrznego, zamkniętego dla ruchu kołowego dziedzińca z placem zabaw i strefą do wypoczynku. Całość powstaje na warszawskim Wilanowie, blisko terenów zielonych i szkoły podstawowej.",
-      "Mieszkania zaprojektowano z dużymi oknami i przeszklonymi balkonami lub tarasami — część lokali na parterze ma prywatne ogródki. Na dachu jednego z budynków znajdzie się ogólnodostępna strefa rekreacyjna z leżakami i grillem dla mieszkańców.",
+      "Mieszkania zaprojektowano z dużymi oknami i przeszklonymi balkonami lub tarasami - część lokali na parterze ma prywatne ogródki. Na dachu jednego z budynków znajdzie się ogólnodostępna strefa rekreacyjna z leżakami i grillem dla mieszkańców.",
       "Inwestycja jest w trakcie realizacji, z planowanym zakończeniem budowy w czwartym kwartale 2027 roku. Aktualnie trwają prace przy stanie surowym pierwszych dwóch budynków.",
     ],
-    sizeRange: "32–98 m²",
+    sizeRange: "32-98 m²",
     floors: "4 kondygnacje + parking podziemny",
     parking: "1 miejsce postojowe w hali garażowej w cenie",
     greenArea: "1,2 ha terenów zielonych i rekreacyjnych",
@@ -84,11 +84,11 @@ export const investments: Investment[] = [
     description:
       "Inwestycja z widokiem na bulwary wiślane, prywatnymi ogródkami na parterze i tarasami na wyższych kondygnacjach.",
     longDescription: [
-      "Zielony Brzeg powstał na krakowskim Podgórzu, kilkaset metrów od bulwarów wiślanych. Budynek liczy sześć kondygnacji i został oddany do użytku — wszystkie mieszkania są gotowe do odbioru.",
-      "Lokale na parterze mają prywatne ogródki, a mieszkania na wyższych piętrach — przeszklone tarasy z widokiem na rzekę. W budynku zastosowano wentylację mechaniczną z rekuperacją, co obniża koszty ogrzewania.",
+      "Zielony Brzeg powstał na krakowskim Podgórzu, kilkaset metrów od bulwarów wiślanych. Budynek liczy sześć kondygnacji i został oddany do użytku - wszystkie mieszkania są gotowe do odbioru.",
+      "Lokale na parterze mają prywatne ogródki, a mieszkania na wyższych piętrach - przeszklone tarasy z widokiem na rzekę. W budynku zastosowano wentylację mechaniczną z rekuperacją, co obniża koszty ogrzewania.",
       "W bezpośrednim sąsiedztwie znajdują się przystanki komunikacji miejskiej, szkoła oraz ścieżka rowerowa prowadząca wzdłuż Wisły do centrum miasta.",
     ],
-    sizeRange: "28–110 m²",
+    sizeRange: "28-110 m²",
     floors: "6 kondygnacji",
     parking: "Miejsca postojowe naziemne i w hali garażowej",
     greenArea: "Ogródki przy lokalach na parterze, zieleń wzdłuż bulwarów",
@@ -125,9 +125,9 @@ export const investments: Investment[] = [
     longDescription: [
       "Leśne Tarasy to kameralne osiedle 24 domów jednorodzinnych i bliźniaków na wrocławskich Krzykach, bezpośrednio sąsiadujące z lasem sosnowym. Układ osiedla zaprojektowano tak, by każda działka miała dostęp do zieleni i naturalne oddzielenie od sąsiadów.",
       "Domy powstają w technologii energooszczędnej, z pompami ciepła i instalacją fotowoltaiczną jako opcją dodatkową. Każdy dom ma garaż dwustanowiskowy i ogród o powierzchni od 300 do 450 m².",
-      "Budowa jest w toku — obecnie trwają prace przy stanie deweloperskim pierwszego etapu (12 domów), z planowanym przekazaniem kluczy w drugim kwartale 2027 roku.",
+      "Budowa jest w toku - obecnie trwają prace przy stanie deweloperskim pierwszego etapu (12 domów), z planowanym przekazaniem kluczy w drugim kwartale 2027 roku.",
     ],
-    sizeRange: "142–186 m² (dom), działki 300–450 m²",
+    sizeRange: "142-186 m² (dom), działki 300-450 m²",
     floors: "2 kondygnacje + poddasze użytkowe",
     parking: "Garaż dwustanowiskowy przy każdym domu",
     greenArea: "Bezpośrednie sąsiedztwo lasu sosnowego, prywatne ogrody",
@@ -162,11 +162,11 @@ export const investments: Investment[] = [
     description:
       "Industrialne lofty w rewitalizowanym budynku dawnej fabryki, z antresolami i wysokimi oknami.",
     longDescription: [
-      "Nova Station to rewitalizacja dawnej fabryki na poznańskim Grunwaldzie — zachowamy oryginalną ceglaną elewację i stalową konstrukcję dachu, dobudowując nowoczesne wnętrza loftowe z antresolami.",
+      "Nova Station to rewitalizacja dawnej fabryki na poznańskim Grunwaldzie - zachowamy oryginalną ceglaną elewację i stalową konstrukcję dachu, dobudowując nowoczesne wnętrza loftowe z antresolami.",
       "Wysokość pomieszczeń sięgająca 4,2 metra i duże, industrialne okna to charakterystyczne cechy tej inwestycji. Część lokali będzie miała antresolę pod sypialnię, co pozwoli efektywnie wykorzystać przestrzeń.",
-      "Inwestycja jest obecnie na etapie projektowym — start sprzedaży i podpisywanie pierwszych umów rezerwacyjnych planujemy na trzeci kwartał 2026 roku.",
+      "Inwestycja jest obecnie na etapie projektowym - start sprzedaży i podpisywanie pierwszych umów rezerwacyjnych planujemy na trzeci kwartał 2026 roku.",
     ],
-    sizeRange: "45–120 m²",
+    sizeRange: "45-120 m²",
     floors: "4 kondygnacje w zrewitalizowanym budynku fabrycznym",
     parking: "Parking naziemny i wiata rowerowa",
     greenArea: "Skwer miejski w sąsiedztwie, rewitalizowane podwórze fabryczne",
@@ -202,10 +202,10 @@ export const investments: Investment[] = [
       "Apartamentowiec 500 metrów od plaży, z panoramicznymi tarasami widokowymi i strefą spa dla mieszkańców.",
     longDescription: [
       "Morska Panorama powstaje na gdańskim Przymorzu, zaledwie 500 metrów od plaży. Dwunastokondygnacyjny apartamentowiec zaprojektowano tak, by większość mieszkań miała choćby częściowy widok na morze.",
-      "Na najwyższych kondygnacjach znajdą się apartamenty z panoramicznymi tarasami widokowymi, a na parterze — ogólnodostępna strefa spa i basen dla mieszkańców budynku.",
+      "Na najwyższych kondygnacjach znajdą się apartamenty z panoramicznymi tarasami widokowymi, a na parterze - ogólnodostępna strefa spa i basen dla mieszkańców budynku.",
       "Budowa ruszyła w 2025 roku, obecnie trwają prace przy wyższych kondygnacjach konstrukcji. Zakończenie inwestycji planowane jest na pierwszy kwartał 2028 roku.",
     ],
-    sizeRange: "38–140 m²",
+    sizeRange: "38-140 m²",
     floors: "12 kondygnacji",
     parking: "Podziemna hala garażowa, część miejsc z ładowarkami EV",
     greenArea: "Bliskość plaży i nadmorskiego pasa zieleni",
@@ -240,11 +240,11 @@ export const investments: Investment[] = [
     description:
       "Niewielkie osiedle bliźniaków i domów w zabudowie szeregowej, zaprojektowane z myślą o rodzinach z dziećmi.",
     longDescription: [
-      "Cichy Zakątek to niewielkie, zamknięte osiedle 18 domów — bliźniaków i domów w zabudowie szeregowej — na łódzkim Polesiu. Układ ulic wewnętrznych zaprojektowano z ograniczeniem ruchu samochodowego, z myślą o bezpieczeństwie dzieci.",
+      "Cichy Zakątek to niewielkie, zamknięte osiedle 18 domów - bliźniaków i domów w zabudowie szeregowej - na łódzkim Polesiu. Układ ulic wewnętrznych zaprojektowano z ograniczeniem ruchu samochodowego, z myślą o bezpieczeństwie dzieci.",
       "Każdy dom ma własny ogród, a na terenie osiedla powstał wspólny plac zabaw i skwer z ławkami. Wszystkie domy są już wykończone i gotowe do odbioru.",
       "Osiedle znajduje się w pobliżu szkoły podstawowej, przedszkola i przystanku autobusowego, co doceniają rodziny z dziećmi kupujące tu swój pierwszy dom.",
     ],
-    sizeRange: "118–145 m², działki 200–280 m²",
+    sizeRange: "118-145 m², działki 200-280 m²",
     floors: "2 kondygnacje",
     parking: "Miejsce postojowe na działce, garaż w wybranych domach",
     greenArea: "Prywatne ogrody, wspólny skwer i plac zabaw",
@@ -309,7 +309,7 @@ export const advantages = [
   {
     title: "Jakość wykończenia",
     description:
-      "Sprawdzeni podwykonawcy i materiały klasy premium — każdy odbiór poprzedzają wewnętrzne kontrole jakości.",
+      "Sprawdzeni podwykonawcy i materiały klasy premium - każdy odbiór poprzedzają wewnętrzne kontrole jakości.",
   },
   {
     title: "Wsparcie po zakupie",
@@ -341,7 +341,7 @@ export const testimonials = [
     name: "Piotr Zieliński",
     role: "Właściciel lokalu, Morska Panorama",
     quote:
-      "Świetna lokalizacja i profesjonalna obsługa na każdym etapie — od pierwszej wizyty w biurze sprzedaży po odbiór techniczny.",
+      "Świetna lokalizacja i profesjonalna obsługa na każdym etapie - od pierwszej wizyty w biurze sprzedaży po odbiór techniczny.",
   },
 ];
 
