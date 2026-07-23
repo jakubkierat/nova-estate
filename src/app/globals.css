@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-manrope);
+
+  --color-ink: #14181f;
+  --color-paper: #faf8f4;
+  --color-paper-dim: #f2efe8;
+  --color-gold: #b08d4f;
+  --color-gold-light: #d9be89;
+  --color-slate-deep: #0f1620;
+
+  --animate-fade-up: fade-up 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  --animate-fade-in: fade-in 0.8s ease forwards;
+  --animate-marquee: marquee 32s linear infinite;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background-color: var(--color-gold);
+  color: var(--color-slate-deep);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
