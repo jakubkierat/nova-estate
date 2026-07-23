@@ -1,16 +1,13 @@
 import type { NextConfig } from "next";
 
+const isGitHubPages = process.env.GITHUB_ACTIONS === "true";
+
 const nextConfig: NextConfig = {
-  turbopack: {
-    root: __dirname,
-  },
+  output: "export",
+  trailingSlash: true,
+  basePath: isGitHubPages ? "/nova-estate" : "",
   images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "images.unsplash.com",
-      },
-    ],
+    unoptimized: true,
   },
 };
 
